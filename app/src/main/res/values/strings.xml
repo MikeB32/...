@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewTask</string>
+    <string name="title_itemlist_list">ItemList</string>
+    <string name="title_itemlist_detail">ItemList Detail</string>
+    <string name="tab">\u0009\u0009\u0009\u0009</string>
+
+</resources>
